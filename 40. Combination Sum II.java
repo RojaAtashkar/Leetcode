@@ -8,7 +8,7 @@ class Solution {
         return ans;
     }
       public  void solve(int target, int[] candidates, ArrayList<Integer> temp, int i){
-    if(target == 0 && !ans.contains(temp)){
+    if(target == 0 ){
         ans.add(new ArrayList<>(temp));
             return;
     }
