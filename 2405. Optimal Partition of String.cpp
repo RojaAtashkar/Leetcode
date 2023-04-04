@@ -15,6 +15,11 @@ public:
     }
 };
 
+98.68%
+Memory
+10.3 MB
+Beats
+90.34%
 
 class Solution {
 public:
@@ -33,3 +38,9 @@ public:
         return count;
     }
 };
+Beats
+90.1%
+Memory
+10.3 MB
+Beats
+77.4%
